@@ -1,3 +1,8 @@
-theme: jekyll-theme-hacker
-title: Jrrk's homepage
-description: Message me for assistance at my business email.
+# Site settings
+title: Projects
+email:
+description: info@jerrick.xyz
+baseurl:
+url:
+twitter_username:
+github_username:  jrrkdevs
